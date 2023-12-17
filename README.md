@@ -1,7 +1,8 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&size=65&pause=1000&background=0D1117&vCenter=true&random=true&width=435&height=72&lines=The+Blue+Ocean)](https://git.io/typing-svg)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&pause=1000&repeat=false&random=true&width=435&lines=The+Blue+Ocean)](https://git.io/typing-svg)
+
 <!--
 **takaaaaaan/takaaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
