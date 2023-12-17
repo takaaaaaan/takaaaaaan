@@ -10,18 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3 # 最新バージョンに更新
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest # 最新バージョンに更新
-        with:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name takaaaaaan
           git config user.email taka20030902@gmail.com
           git add -A .
-          git commit -m "Update 3D contribution graph"
+          git commit -m "generated"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
