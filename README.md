@@ -6,27 +6,17 @@
 - 2023년 AI+Security 아이디어 공모전: 최우수상
 - 기술+인문사회 융합프로젝트 경진대회: 대상
 <!-- - 2023 몰입형 SW 정규 교육과정 산출물 발표회: 금상 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takaaaaaan&show_icons=true&theme=radical)
-<!-- ### 💬 コーディングモットー
-
-1. コードへの愛着なし
-2. 人間のためのコード作成
-3. 簡単なコード作成
-4. 一貫した標準使用
-5. 予測可能なコード作成
-6. 頻繁にコミュニケーションする
-7. 早く、そしてゆっくりコーディング -->
-
-<!-- ### 🌟 技術スキル
-
-- **Python**: 詳細なデータ分析、機械学習プロジェクトに使用
-- **JavaScript**: インタラクティブなウェブアプリケーション開発 -->
-
 ### 📫 ソーシャルメディア
 
-- [LinkedIn](リンク)
-- [Twitter](リンク)
+[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0907_taka.py/)
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taka20030902@gmail.com)
+![Anurag's GitHub stats](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
+### 🌟 技術スキル
+[![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
+<!-- "![](https://github-readme-stats.vercel.app/api?username=takaaaaaan&show_icons=true&theme=transparent) -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&size=65&pause=1000&background=0D1117&vCenter=true&random=true&width=550&height=72&lines=The+Blue+Ocean)](https://git.io/typing-svg)-->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&size=65&pause=1000&background=0D1117&vCenter=true&random=true&width=550&height=72&lines=The+Blue+Ocean)](https://git.io/typing-svg) -->
