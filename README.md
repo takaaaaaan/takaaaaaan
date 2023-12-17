@@ -1,5 +1,9 @@
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20TAKA's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&size=65&pause=1000&background=0D1117&vCenter=true&random=true&width=435&height=72&lines=The+Blue+Ocean)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&size=65&pause=1000&background=0D1117&vCenter=true&random=true&width=550&height=72&lines=The+Blue+Ocean)](https://git.io/typing-svg)
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
