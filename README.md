@@ -18,8 +18,5 @@
 ### 🌟 technical skill
 [![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
-<!-- "![](https://github-readme-stats.vercel.app/api?username=takaaaaaan&show_icons=true&theme=transparent) -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&size=65&pause=1000&background=0D1117&vCenter=true&random=true&width=550&height=72&lines=The+Blue+Ocean)](https://git.io/typing-svg) -->
