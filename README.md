@@ -8,15 +8,16 @@
 - 기술+인문사회 융합프로젝트 경진대회: 우수상
 - 2023 몰입형 SW 정규 교육과정 산출물 발표회: 금상
 - 2023년HUSS 해커톤 :우수상 2등 (한국연구재단 이사장상)
-  
+
 ### 📫 SNS
 
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0907_taka.py/)
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taka20030902@gmail.com)
-![Anurag's GitHub stats](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 ### 🌟 technical skill
-[![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
+[![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![General badge](https://img.shields.io/badge/-Typescript-09090b.svg?logo=typescript&style=for-the-badge)]()
+[![General badge](https://img.shields.io/badge/-Javascript-f7df1e78.svg?logo=javascript&style=for-the-badge)]()
 
 ![](./profile-3d-contrib/profile-night-green.svg)
